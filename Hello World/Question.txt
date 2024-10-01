@@ -1,0 +1,9 @@
+Sample Input :
+
+Welcome to C programming.
+
+
+Sample Output :
+
+Hello, World!
+Welcome to C programming.
