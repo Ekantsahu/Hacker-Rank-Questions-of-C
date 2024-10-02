@@ -1,0 +1,11 @@
+Your task is to take two numbers of int data type, two numbers of float data type as input and output their sum:
+
+Sample Input
+
+10 4
+4.0 2.0
+
+Sample Output
+
+14 6
+6.0 2.0
