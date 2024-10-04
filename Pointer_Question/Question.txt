@@ -1,0 +1,19 @@
+Input Format:
+
+The input will contain two integers,  and , separated by a newline.
+
+Output Format:
+
+Modify the two values in place and the code stub main() will print their values.
+
+======================================================================================
+
+Sample Input:
+
+4
+5
+
+Sample Output:
+
+9
+1
