@@ -1,0 +1,22 @@
+Task
+
+Given a positive integer denoting , do the following:
+
+If 1<n<9, print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
+If n>9, print Greater than 9.
+
+====================================================================================================================
+Sample Input
+5
+Sample Output
+five
+
+Sample Input #01
+8
+Sample Output #01
+eight
+
+Sample Input #02
+44
+Sample Output #02
+Greater than 9
