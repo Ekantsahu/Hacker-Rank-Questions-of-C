@@ -1,0 +1,6 @@
+You need to find the maximum values of bitwise AND, OR, and XOR for numbers a and b (where a < b), ensuring that each result is less than a given threshold k.
+
+Input:
+Two integers: n (the highest number to consider) and k (the maximum value for the result).
+Output:
+Print the maximum values for AND, OR, and XOR, each on a separate line.
