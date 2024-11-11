@@ -1,0 +1,8 @@
+Read an integer n (the size of the array) as the first input line. Then, on the second line, input n space-separated integers. Store these integers in a dynamically allocated array, calculate the sum of the elements, and print the sum. Finally, free the allocated memory.
+
+Input Format:
+An integer n.
+n space-separated integers.
+
+Output Format:
+A single integer representing the sum of the array elements.
